@@ -1,0 +1,16 @@
+# Ignore Jupyter auto-generated folders
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+
+#ingnore other files in directory
+bioinformatics_freecodecamp/*
+
+#keep these files for tracking
+!bioinformatics_freecodecamp/bioactivity_prediction_app.ipynb
+!bioinformatics_freecodecamp/CDD_ML_Part_1_Acetylcholinesterase_Bioactivity_Data_Concised.ipynb
+!bioinformatics_freecodecamp/CDD_ML_Part_2_Acetylcholinesterase_Bioactivity_Data_Concised.ipynb
+!bioinformatics_freecodecamp/CDD_ML_Part_3_Acetylcholinesterase_Bioactivity_Data_Concised.ipynb
+!bioinformatics_freecodecamp/CDD_ML_Part_4_Acetylcholinesterase_Bioactivity_Data_Concised.ipynb
+!bioinformatics_freecodecamp/CDD_ML_Part_5_Acetylcholinesterase_Bioactivity_Data_Concised.ipynb
